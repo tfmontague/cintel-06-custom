@@ -1,1 +1,11 @@
-
+pandas
+plotly
+seaborn
+ipywidgets
+palmerpenguins
+faicons
+json
+shiny
+shiny.express
+ipyleaflet
+shinyswatch
